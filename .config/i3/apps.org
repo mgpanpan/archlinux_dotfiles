@@ -1,0 +1,15 @@
+* needed applications:
+- compton
+- feh
+- font-awesome
+
+enable NetworkManager
+disable netctl
+* solve the problem of urxvt terminal
+modprobe -r pcspkr
+
+blacklist pcspkr
+
+* packages used by Manjaro i3wm version
+- pamac-tray: graphical package manager
+
