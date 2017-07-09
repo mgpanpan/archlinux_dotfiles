@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-refile-last-stored"
+ (filename . "e:/Workspace/Work/work_note/notes.org")
+ (front-context-string . "** Barrick, D. E")
+ (rear-context-string . "aring.\n\n\n\n\n\n\n\n\n\n")
+ (position . 1304))
+("org-capture-last-stored"
+ (filename . "e:/Workspace/Work/work_note/journal.org")
+ (front-context-string . "**** <2017-06-08")
+ (rear-context-string . "006年采集的数据 原网页失效\n")
+ (position . 9615))
+)

@@ -1,0 +1,21 @@
+ls
+ls -al
+ls
+pdflatex templet.tex
+pdflatex templet.tex
+bibtex.exe templet.tex
+pdflatex templet.tex
+bibtex.exe templet.tex
+pdflatex templet.tex
+pdflatex templet.tex
+pdflatex templet.tex
+bibtex.exe templet.tex
+bibtex.exe ./bib/tex.bib 
+bibtex.exe ./bib/tex.bib 
+exit
+pdflatex templet.tex
+pdflatex templet.tex
+bibtex.exe "templet"
+pdflatex templet.tex
+pdflatex templet.tex
+echo $XDG_CONFIG_HOME

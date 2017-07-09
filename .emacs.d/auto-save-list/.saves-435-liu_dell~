@@ -1,0 +1,8 @@
+/home/panmengguan/.config/systemd/user/emacs.service
+/home/panmengguan/.config/systemd/user/#emacs.service#
+/home/panmengguan/.emacs.d/panmengguan-configure/init-ui.el
+/home/panmengguan/.emacs.d/panmengguan-configure/#init-ui.el#
+/home/panmengguan/.emacs.d/panmengguan-configure/init-packages.el
+/home/panmengguan/.emacs.d/panmengguan-configure/#init-packages.el#
+/home/panmengguan/.emacs.d/init.el
+/home/panmengguan/.emacs.d/#init.el#
